@@ -9,7 +9,9 @@ Swaply es una plataforma de trueques al estilo Amazon, donde los usuarios interc
 * Carlota Camblor Parrondo
 * Ricardo Campo Acedo
 * Carla Cillán Barrajón
+* Samuel Fernández Gil
 * Elena Hidalgo Maqueda
 * Pablo Martín Gutiérrez
+* Sofía Mato de la Rocha
 * Diego Pallarés López
 
