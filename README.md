@@ -1,5 +1,5 @@
 ## Swaply
-Swaply es una plataforma de trueques al estilo Amazon, donde los usuarios intercambian productos y servicios de forma segura y sencilla.
+Swaply es una plataforma de trueques al estilo Amazon, donde los usuarios intercambian productos y servicios de forma segura y sencilla. Para ver el Kanban del proyecto haz click [aqui](https://github.com/users/CarlBelm/projects/3)
 
 # Proyecto IS1 Curso 2025-2026 2ºA Ingeniería Informática
 # Integrantes:
