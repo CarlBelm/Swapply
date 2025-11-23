@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="315px" height="317px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip103">
+      <path d="M 58 230  L 86 230  L 86 259  L 58 259  L 58 230  Z M 58 58  L 86 58  L 86 87  L 58 87  L 58 58  Z M 229 58  L 257 58  L 257 87  L 229 87  L 229 58  Z M 29 201  L 29 288  L 115 288  L 115 201  L 29 201  Z M 29 29  L 29 116  L 115 116  L 115 29  L 29 29  Z M 200 29  L 200 116  L 286 116  L 286 29  L 200 29  Z M 0 173  L 144 173  L 144 317  L 0 317  L 0 173  Z M 229 288  L 257 288  L 257 317  L 229 317  L 229 288  Z M 286 288  L 315 288  L 315 317  L 286 317  L 286 288  Z M 286 173  L 315 173  L 315 259  L 229 259  L 229 230  L 200 230  L 200 317  L 171 317  L 171 173  L 257 173  L 257 201  L 286 201  L 286 173  Z M 0 0  L 144 0  L 144 144  L 0 144  L 0 0  Z M 171 0  L 315 0  L 315 144  L 171 144  L 171 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -38 -233 )">
+    <path d="M 58 230  L 86 230  L 86 259  L 58 259  L 58 230  Z M 58 58  L 86 58  L 86 87  L 58 87  L 58 58  Z M 229 58  L 257 58  L 257 87  L 229 87  L 229 58  Z M 29 201  L 29 288  L 115 288  L 115 201  L 29 201  Z M 29 29  L 29 116  L 115 116  L 115 29  L 29 29  Z M 200 29  L 200 116  L 286 116  L 286 29  L 200 29  Z M 0 173  L 144 173  L 144 317  L 0 317  L 0 173  Z M 229 288  L 257 288  L 257 317  L 229 317  L 229 288  Z M 286 288  L 315 288  L 315 317  L 286 317  L 286 288  Z M 286 173  L 315 173  L 315 259  L 229 259  L 229 230  L 200 230  L 200 317  L 171 317  L 171 173  L 257 173  L 257 201  L 286 201  L 286 173  Z M 0 0  L 144 0  L 144 144  L 0 144  L 0 0  Z M 171 0  L 315 0  L 315 144  L 171 144  L 171 0  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" transform="matrix(1 0 0 1 38 233 )" class="fill" />
+    <path d="M 58 230  L 86 230  L 86 259  L 58 259  L 58 230  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 58 58  L 86 58  L 86 87  L 58 87  L 58 58  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 229 58  L 257 58  L 257 87  L 229 87  L 229 58  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 29 201  L 29 288  L 115 288  L 115 201  L 29 201  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 29 29  L 29 116  L 115 116  L 115 29  L 29 29  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 200 29  L 200 116  L 286 116  L 286 29  L 200 29  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 0 173  L 144 173  L 144 317  L 0 317  L 0 173  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 229 288  L 257 288  L 257 317  L 229 317  L 229 288  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 286 288  L 315 288  L 315 317  L 286 317  L 286 288  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 286 173  L 315 173  L 315 259  L 229 259  L 229 230  L 200 230  L 200 317  L 171 317  L 171 173  L 257 173  L 257 201  L 286 201  L 286 173  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 0 0  L 144 0  L 144 144  L 0 144  L 0 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+    <path d="M 171 0  L 315 0  L 315 144  L 171 144  L 171 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 38 233 )" class="stroke" mask="url(#Clip103)" />
+  </g>
+</svg>
