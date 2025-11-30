@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Swapply" version="4">
+  <OBJECT>
+    <ID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Swapply]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="Subsistema de Identidad y Reputación" mc="Standard.Package" uid="d64c7b42-1c39-4f4d-a65a-4e54a83446fa"/>
+        <COMPID name="Subsistema de Inventario y Deseos" mc="Standard.Package" uid="da391c3b-1c9f-4875-983b-cc1bde7ec97d"/>
+        <COMPID name="Subsistema de Transacción y Matching" mc="Standard.Package" uid="4f656a9b-898f-486b-921e-6ef12a60629b"/>
+        <COMPID name="Subsistema de Wallet de SwapCoins" mc="Standard.Package" uid="70ffed92-5b10-43c7-ae27-dca80d8cf681"/>
+        <COMPID name="Subsistema de Notificaciones y Comunicación" mc="Standard.Package" uid="06acdda7-67df-4a0c-a64b-d01225b87909"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Swapply" mc="Infrastructure.DiagramSet" uid="897152d2-cd61-43af-952d-0e195d0d6b1d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

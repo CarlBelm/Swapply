@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Subsistema de Wallet de SwapCoins" version="4">
+  <OBJECT>
+    <ID name="Subsistema de Wallet de SwapCoins" mc="Standard.Package" uid="70ffed92-5b10-43c7-ae27-dca80d8cf681"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Subsistema de Wallet de SwapCoins]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Actor" uid="3d95f2ef-ce80-400a-9ee5-786458c95ff6"/>
+        <COMPID name="Pasarela de Pago" mc="Standard.Actor" uid="31a6465b-d4c6-4843-96a7-67f308a13e37"/>
+        <COMPID name="Consultar Saldo y Movimientos" mc="Standard.UseCase" uid="9613730f-38f3-45cc-b18e-f86c2c73b41f"/>
+        <COMPID name="Comprar Paquete de SwapCoins" mc="Standard.UseCase" uid="221c60eb-f452-4646-a104-3679ca75f988"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Subsistema de Wallet de SwapCoins Use Case diagram" mc="Standard.UseCaseDiagram" uid="826599c5-c931-4d1b-9044-71592d921427"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

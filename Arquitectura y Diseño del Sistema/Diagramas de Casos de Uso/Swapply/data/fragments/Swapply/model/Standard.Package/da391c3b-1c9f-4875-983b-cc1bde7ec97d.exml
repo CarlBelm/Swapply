@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Subsistema de Inventario y Deseos" version="4">
+  <OBJECT>
+    <ID name="Subsistema de Inventario y Deseos" mc="Standard.Package" uid="da391c3b-1c9f-4875-983b-cc1bde7ec97d"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Subsistema de Inventario y Deseos]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario Vendedor" mc="Standard.Actor" uid="e77c4414-11a3-4240-8b9f-5a6c1fe7c3e8"/>
+        <COMPID name="Usuario Comprador" mc="Standard.Actor" uid="72771b23-c11f-4a71-8f10-087e5f681404"/>
+        <COMPID name="Publicar Producto" mc="Standard.UseCase" uid="17df387f-4905-4475-8ccc-9cd950fb8b60"/>
+        <COMPID name="Retirar Producto" mc="Standard.UseCase" uid="04160ea0-7447-40af-a63b-9a8cd360158c"/>
+        <COMPID name="Agregar ítem a la Wishlist" mc="Standard.UseCase" uid="34c20b43-585e-4800-acdd-2cc8bbbe4ace"/>
+        <COMPID name="Configurar filtros de Búsqueda" mc="Standard.UseCase" uid="59433d73-c075-4f31-9099-64dd6340b679"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Subsistema de Inventario y Deseos Use Case diagram" mc="Standard.UseCaseDiagram" uid="412e83f1-b3ab-4a0e-9b4b-2217fc891d4a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

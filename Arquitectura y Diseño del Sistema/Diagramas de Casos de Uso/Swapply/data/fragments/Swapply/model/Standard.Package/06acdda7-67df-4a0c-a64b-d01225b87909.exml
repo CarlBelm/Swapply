@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Subsistema de Notificaciones y Comunicación" version="4">
+  <OBJECT>
+    <ID name="Subsistema de Notificaciones y Comunicación" mc="Standard.Package" uid="06acdda7-67df-4a0c-a64b-d01225b87909"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Subsistema de Notificaciones y Comunicación]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario Emisor" mc="Standard.Actor" uid="14b3573e-ad2c-488c-aefe-0e863cd033ba"/>
+        <COMPID name="Usuario Receptor" mc="Standard.Actor" uid="12dc82fc-89bb-403e-ba5e-5b979576453f"/>
+        <COMPID name="Sistema de Notificaciones de Swapply" mc="Standard.Actor" uid="d99872e2-9e14-435e-b205-68a210293240"/>
+        <COMPID name="Enviar Notificación" mc="Standard.UseCase" uid="a4fa63c0-b0b1-4aa7-b9b6-46dfc5a0fde9"/>
+        <COMPID name="Enviar Notificación Pop-up en la App" mc="Standard.UseCase" uid="132e7356-5082-4e2f-a688-0987e67a0a73"/>
+        <COMPID name="Enviar email" mc="Standard.UseCase" uid="7ca06e1f-f9da-4de5-9719-acd45c6a9259"/>
+        <COMPID name="Enviar Mensaje" mc="Standard.UseCase" uid="fa39bd68-a1a5-4a9e-9cac-36a1bf4bd958"/>
+        <COMPID name="Consultar Mensajes" mc="Standard.UseCase" uid="72e6ebf6-f961-41af-9a38-929e4ad10048"/>
+        <COMPID name="Consultar Notificaciones" mc="Standard.UseCase" uid="f6b4545d-2035-415e-a5cd-a5bdfe2ae58b"/>
+        <COMPID name="Gestionar Preferencias de Notificaciones" mc="Standard.UseCase" uid="d618bcfd-ba28-4b43-b9f3-dee92e959b5e"/>
+        <COMPID name="Chatear" mc="Standard.UseCase" uid="1407e8cb-8aaa-46b0-98e5-9f9dbdf8a180"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Subsistema de Notificaciones y Comunicación Use Case diagram" mc="Standard.UseCaseDiagram" uid="59fe44ab-cea4-46bd-9f0d-8fb1c06ea82d"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="a835371e-cab5-427d-a323-6b3c7f5da075"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<Enter note text here>]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

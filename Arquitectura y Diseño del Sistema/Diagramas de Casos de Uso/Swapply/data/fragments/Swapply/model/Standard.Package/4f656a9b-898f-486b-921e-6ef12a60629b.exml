@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Subsistemas de Transacción y Matching" version="4">
+  <OBJECT>
+    <ID name="Subsistemas de Transacción y Matching" mc="Standard.Package" uid="4f656a9b-898f-486b-921e-6ef12a60629b"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Subsistemas de Transacción y Matching]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario A" mc="Standard.Actor" uid="0269ca99-86c0-4271-ac56-cdbe1b04ecf2"/>
+        <COMPID name="Usuario B" mc="Standard.Actor" uid="3306171c-6b3d-4b25-b765-d31567c8d06e"/>
+        <COMPID name="Usuario C" mc="Standard.Actor" uid="41184d5e-4b68-4b71-a592-6e1fb29288db"/>
+        <COMPID name="Sistema de Matching de Swapply" mc="Standard.Actor" uid="4403dba0-bfdd-4bfe-b068-0fa120c6419c"/>
+        <COMPID name="Propuesta de Match" mc="Standard.UseCase" uid="41963e10-75e7-4c05-916c-4c84d076171b"/>
+        <COMPID name="Aceptar Propuesta" mc="Standard.UseCase" uid="ee0a94f8-3849-4e79-a71c-31f42b75ff33"/>
+        <COMPID name="Rechazar Propuesta" mc="Standard.UseCase" uid="abc0349f-85eb-48ba-bf12-7b00047d9a21"/>
+        <COMPID name="Notificar Match" mc="Standard.UseCase" uid="dcc04fb3-4cab-495b-945e-18011ec9af27"/>
+        <COMPID name="Realizar Envio" mc="Standard.UseCase" uid="4d67b39c-edb6-4239-9faa-00011e5f1f08"/>
+        <COMPID name="Pagar con SwapCoins" mc="Standard.UseCase" uid="59d8ff95-c727-4a64-9ea6-07e31cdf7dc0"/>
+        <COMPID name="Confirmar Recepción" mc="Standard.UseCase" uid="fdca517a-9a80-47ce-8df2-c153b2705d6c"/>
+        <COMPID name="Abrir Disputa" mc="Standard.UseCase" uid="38d15a50-33cb-483b-a988-54b28e0d8d66"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Subsistemas de Transacción y Matching Use Case diagram" mc="Standard.UseCaseDiagram" uid="49c6d6f0-01e8-4188-98b1-82eaa73d90b6"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="e5d34359-a7a4-4675-b90b-172633c351e1"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<Enter note text here>]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
