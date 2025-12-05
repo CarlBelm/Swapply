@@ -21,6 +21,7 @@
         <COMPID name="Agregar ítem a la Wishlist" mc="Standard.UseCase" uid="34c20b43-585e-4800-acdd-2cc8bbbe4ace"/>
         <COMPID name="Configurar filtros de Búsqueda" mc="Standard.UseCase" uid="59433d73-c075-4f31-9099-64dd6340b679"/>
         <COMPID name="Ver Detalles de un Producto" mc="Standard.UseCase" uid="74940c2d-fe83-4c70-9ff2-c18332bc8826"/>
+        <COMPID name="Ver Wishlist" mc="Standard.UseCase" uid="7fa58ac7-571f-43aa-9f25-3f020a271117"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Subsistema de Inventario y Deseos Use Case diagram" mc="Standard.UseCaseDiagram" uid="412e83f1-b3ab-4a0e-9b4b-2217fc891d4a"/>
