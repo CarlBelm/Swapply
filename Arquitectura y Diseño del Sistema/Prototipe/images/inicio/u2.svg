@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="110px" height="120px" xmlns="http://www.w3.org/2000/svg">
-  <g>
-    <path d="M 0 0  L 110 0  L 110 120  L 0 120  L 0 0  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
-    <path d="M 8 8  L 102 8  L 102 112  L 8 112  L 8 8  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
-    <path d="M 65.45 34.5  C 60.830000000000005 34.5  57.2 30.87  57.2 26.25  C 57.2 21.63  60.830000000000005 18  65.45 18  C 70.07000000000001 18  73.7 21.63  73.7 26.25  C 73.7 30.87  70.07000000000001 34.5  65.45 34.5  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
-    <path d="M 11 109  L 11 55.099999999999994  L 33 30.599999999999994  L 63.8 50.2  L 81.4 45.3  L 99 50.2  L 99 109  L 11 109  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" />
+  <g transform="matrix(1 0 0 1 0 -14 )">
+    <path d="M 0 14  L 110 14  L 110 134  L 0 134  L 0 14  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
+    <path d="M 8 22  L 102 22  L 102 126  L 8 126  L 8 22  " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" class="fill" />
+    <path d="M 65.45 48.5  C 60.830000000000005 48.5  57.2 44.87  57.2 40.25  C 57.2 35.63  60.830000000000005 32  65.45 32  C 70.07000000000001 32  73.7 35.63  73.7 40.25  C 73.7 44.87  70.07000000000001 48.5  65.45 48.5  " fill-rule="nonzero" fill="rgba(204, 204, 204, 1)" stroke="none" class="fill" />
+    <path d="M 11 123  L 11 69.1  L 33 44.599999999999994  L 63.8 64.2  L 81.4 59.3  L 99 64.2  L 99 123  L 11 123  " fill-rule="nonzero" fill="rgba(22, 155, 213, 1)" stroke="none" class="fill" />
   </g>
 </svg>
