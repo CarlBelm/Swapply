@@ -1,5 +1,5 @@
-## Swaply
-Swaply es una plataforma de trueques al estilo Wallapop, donde los usuarios intercambian productos y servicios de forma segura y sencilla.
+## Swapply
+Swapply es una plataforma de trueques al estilo Wallapop, donde los usuarios intercambian productos y servicios de forma segura y sencilla.
 
 # Proyecto IS1 Curso 2025-2026 2ºA Ingeniería Informática
 # Integrantes:
