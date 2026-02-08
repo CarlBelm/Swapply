@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelo de Dominio" version="4">
+  <OBJECT>
+    <ID name="Modelo de Dominio" mc="Standard.Package" uid="f25b97d3-c44b-4118-8545-4af6ee110eaf"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelo de Dominio]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Class" uid="8fabab0c-8ba1-4547-ad86-703558f237fd"/>
+        <COMPID name="Servicio" mc="Standard.Class" uid="c145c6c0-35b7-4713-bf1b-edb384330cb2"/>
+        <COMPID name="Item" mc="Standard.Class" uid="1a060bab-d9e2-4ad1-98c4-f08b59c08c77"/>
+        <COMPID name="Producto" mc="Standard.Class" uid="2137732a-bb71-492f-878a-ec7c8a1d5026"/>
+        <COMPID name="Wallet" mc="Standard.Class" uid="d1f25718-d518-46e8-8bc2-cd214203f826"/>
+        <COMPID name="Intercambio" mc="Standard.Class" uid="f5073cb3-b859-4c07-8df8-e8f60b36f66a"/>
+        <COMPID name="Categoria" mc="Standard.Class" uid="09dabcd6-7335-42fb-a5b4-5b59bc7d91cd"/>
+        <COMPID name="Valoración" mc="Standard.Class" uid="c671aaf8-031f-44a0-9af5-a48a1efbe4a3"/>
+        <COMPID name="Trueque Puro" mc="Standard.Class" uid="9bb7aaa2-8f5c-4d20-8f05-5238a74dc526"/>
+        <COMPID name="Trueque Mixto" mc="Standard.Class" uid="e6eb579f-0602-440d-8f7e-4075e99b9fbc"/>
+        <OBJECT>
+          <ID name="EstadoIntercambio" mc="Standard.Enumeration" uid="f4e899be-fce7-4c44-817d-6ee308013f31"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[EstadoIntercambio]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <COMP relation="Descriptor">
+              <OBJECT>
+                <ID name="" mc="Infrastructure.Note" uid="ec516ee1-3887-498c-9a2a-7a771a8c9feb"/>
+                <ATTRIBUTES>
+                  <ATT name="Content"><![CDATA[<Enter note text here>]]></ATT>
+                  <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+                  <ATT name="Name"></ATT>
+                  <ATT name="status">1970354901745664</ATT>
+                </ATTRIBUTES>
+                <DEPENDENCIES>
+                  <LINK relation="Model">
+                    <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+                  </LINK>
+                </DEPENDENCIES>
+              </OBJECT>
+            </COMP>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="EstadoProducto" mc="Standard.Enumeration" uid="13e19b0d-b34a-42fd-a137-f6a8c758cd21"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[EstadoProducto]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="Categorias" mc="Standard.Enumeration" uid="1148be37-37ae-47c3-8aeb-6366fa5f02a2"/>
+          <ATTRIBUTES>
+            <ATT name="IsElementary">true</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[Categorias]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Modelo de Dominio" mc="Standard.ClassDiagram" uid="305f7afc-c9c9-45bc-86cd-5ccd9ce596cd"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

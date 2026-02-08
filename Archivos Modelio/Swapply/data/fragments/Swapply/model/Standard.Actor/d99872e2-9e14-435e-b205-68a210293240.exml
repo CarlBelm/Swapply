@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sistema de Notificaciones de Swapply" version="4">
+  <OBJECT>
+    <ID name="Sistema de Notificaciones de Swapply" mc="Standard.Actor" uid="d99872e2-9e14-435e-b205-68a210293240"/>
+    <PID name="Subsistema de Notificaciones y Comunicación" mc="Standard.Package" uid="06acdda7-67df-4a0c-a64b-d01225b87909"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Sistema de Notificaciones de Swapply]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

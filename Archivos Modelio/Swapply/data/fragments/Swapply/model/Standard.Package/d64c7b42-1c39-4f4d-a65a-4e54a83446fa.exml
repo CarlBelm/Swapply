@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Subsistema de Identidad y Reputación" version="4">
+  <OBJECT>
+    <ID name="Subsistema de Identidad y Reputación" mc="Standard.Package" uid="d64c7b42-1c39-4f4d-a65a-4e54a83446fa"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Subsistema de Identidad y Reputación]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Usuario" mc="Standard.Actor" uid="425d7e79-9bb4-4fe2-a5bc-435fd57b94f8"/>
+        <COMPID name="Iniciar Sesión" mc="Standard.UseCase" uid="971b56aa-9962-45ea-af7c-60249705a900"/>
+        <COMPID name="Registrarse" mc="Standard.UseCase" uid="661366db-1032-43cf-ad95-c259faa5c900"/>
+        <COMPID name="Base de Datos" mc="Standard.Actor" uid="d4504643-f12a-4b25-98be-9401e3182192"/>
+        <COMPID name="Validar email" mc="Standard.UseCase" uid="d1859139-e0c0-4c31-9969-31b632a1e30c"/>
+        <COMPID name="Gestionar Perfil" mc="Standard.UseCase" uid="2c7dc764-6381-45c0-9880-bfbbf4da4b37"/>
+        <COMPID name="Ver Perfil Público" mc="Standard.UseCase" uid="87a1dc4a-fcc1-4eaf-b53e-c54d9e80585a"/>
+        <COMPID name="Nuevo Usuario" mc="Standard.Actor" uid="f013952b-df6a-4d85-90b2-f89798a75ccc"/>
+        <COMPID name="Valorar Usuario" mc="Standard.UseCase" uid="4fcb3c70-626d-4533-a3d8-ba51c6afbde9"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="swapply Use Case diagram" mc="Standard.UseCaseDiagram" uid="45267eeb-54ed-4098-b1f4-b955a6cdcbf9"/>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="eccbabdb-eb15-4d69-97f3-357d9946e15c"/>
+          <ATTRIBUTES>
+            <ATT name="Content"><![CDATA[<Enter note text here>]]></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,1 @@
+En la carpeta "Archivos Modelio" se encuentran los archivos de los diagramas de Caso de Uso y del Modelo de Dominio, en el Proyecto de Modelio "Swappy".
