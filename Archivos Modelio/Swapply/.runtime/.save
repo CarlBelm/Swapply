@@ -1,7 +1,9 @@
-#Sun Feb 08 15:52:39 CET 2026
+#Sun Feb 15 20:17:01 CET 2026
 org.modelio.app.diagram.editor.OpenedDiagrams0='Subsistema de Identidad y Reputaci\u00F3n' {45267eeb-54ed-4098-b1f4-b955a6cdcbf9} Standard.UseCaseDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams3='Subsistema de Wallet de SwapCoins Use Case diagram' {826599c5-c931-4d1b-9044-71592d921427} Standard.UseCaseDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams4='Subsistema de Notificaciones y Comunicaci\u00F3n Use Case diagram' {59fe44ab-cea4-46bd-9f0d-8fb1c06ea82d} Standard.UseCaseDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams1='Subsistema de Inventario y Deseos Use Case diagram' {412e83f1-b3ab-4a0e-9b4b-2217fc891d4a} Standard.UseCaseDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams2='Subsistemas de Transacci\u00F3n y Matching Use Case diagram' {49c6d6f0-01e8-4188-98b1-82eaa73d90b6} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams7='Activity1 Activity diagram' {b12abad5-2f45-4ebb-b416-09e9e61ee9e1} Standard.ActivityDiagram
 org.modelio.app.diagram.editor.OpenedDiagrams5='Modelo de Dominio' {305f7afc-c9c9-45bc-86cd-5ccd9ce596cd} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='Activity Activity diagram' {e28d8573-a08b-4425-aa09-85846ec18d26} Standard.ActivityDiagram

@@ -16,6 +16,7 @@
         <COMPID name="Subsistema de Wallet de SwapCoins" mc="Standard.Package" uid="70ffed92-5b10-43c7-ae27-dca80d8cf681"/>
         <COMPID name="Subsistema de Notificaciones y Comunicación" mc="Standard.Package" uid="06acdda7-67df-4a0c-a64b-d01225b87909"/>
         <COMPID name="Modelo de Dominio" mc="Standard.Package" uid="f25b97d3-c44b-4118-8545-4af6ee110eaf"/>
+        <COMPID name="Diagramas de Actividad" mc="Standard.Package" uid="fcfc4e62-b934-459c-a939-10fd0f2c9a32"/>
       </COMP>
       <COMP relation="DiagramRoot">
         <COMPID name="Swapply" mc="Infrastructure.DiagramSet" uid="897152d2-cd61-43af-952d-0e195d0d6b1d"/>

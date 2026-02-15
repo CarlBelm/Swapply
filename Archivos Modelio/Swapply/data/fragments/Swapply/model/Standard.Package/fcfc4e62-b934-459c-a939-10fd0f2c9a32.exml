@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Diagramas de Actividad" version="4">
+  <OBJECT>
+    <ID name="Diagramas de Actividad" mc="Standard.Package" uid="fcfc4e62-b934-459c-a939-10fd0f2c9a32"/>
+    <PID name="Swapply" mc="Standard.Project" uid="64a67c30-2f34-4b54-b80e-9912bdf72071"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Diagramas de Actividad]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="cb880643-f86c-4fe9-ac89-46c9eba2ca05"/>
+        <COMPID name="Activity1" mc="Standard.Activity" uid="0493cf0e-000a-4fdf-aa5b-c1cbe15dec5b"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
